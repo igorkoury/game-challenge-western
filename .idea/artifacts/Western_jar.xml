@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Western:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Western_jar</output-path>
+    <root id="archive" name="Western.jar">
+      <element id="module-output" name="Western" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/prompt-view-0.2.1-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
