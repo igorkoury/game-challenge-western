@@ -1,2 +1,2 @@
 # game-challenge-western
-Season 2 / End season challenge / Western game
+A/C / Bootcamp 68 / Season 2 / End season challenge / Western game
